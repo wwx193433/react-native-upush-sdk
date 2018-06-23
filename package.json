@@ -1,0 +1,11 @@
+{
+  "name": "react-native-upush-sdk",
+  "version": "1.0.3",
+  "description": "react-native-upush 依赖的pushsdk包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
